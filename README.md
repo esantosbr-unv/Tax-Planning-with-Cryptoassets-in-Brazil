@@ -22,6 +22,7 @@ https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action?termoBusca=
 https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/tributos 
 https://www.investopedia.com/ 
 https://sites.tcu.gov.br/desenvolvimento-nacional/sistema_tributario.html 
+
 b. Fontes de Dados (Vídeos - RFB, CVM, Livros)
 https://www.youtube.com/watch?v=YqtgfA4Hg7U 
 https://www.youtube.com/watch?v=LELeYyvuQso 
